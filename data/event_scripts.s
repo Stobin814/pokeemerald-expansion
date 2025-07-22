@@ -1159,3 +1159,7 @@ EventScript_VsSeekerChargingDone::
 	.include "data/scripts/dexnav.inc"
 
 	.include "data/maps/Voltaic_Crypt/scripts.inc"
+
+	.include "data/maps/Treasure_Cave/scripts.inc"
+
+	.include "data/maps/Vaitality_Cavern/scripts.inc"
