@@ -1163,3 +1163,7 @@ EventScript_VsSeekerChargingDone::
 	.include "data/maps/Treasure_Cave/scripts.inc"
 
 	.include "data/maps/Vaitality_Cavern/scripts.inc"
+
+	.include "data/maps/Ebon_Maw/scripts.inc"
+
+	.include "data/maps/FrozenCave/scripts.inc"

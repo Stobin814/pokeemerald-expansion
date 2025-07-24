@@ -432,7 +432,9 @@
     "TerraCave_End",
     "AlteringCave",
     "MeteorFalls_StevensCave",
-    "Voltaic_Crypt"
+    "Voltaic_Crypt",
+    "Ebon_Maw",
+    "FrozenCave"
   ],
   "gMapGroup_IndoorDynamic": [
     "SecretBase_RedCave1",

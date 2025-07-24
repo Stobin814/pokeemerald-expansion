@@ -4440,6 +4440,26 @@
       "secondary_tileset": "gTileset_Cave",
       "border_filepath": "data/layouts/Vaitality_Cavern/border.bin",
       "blockdata_filepath": "data/layouts/Vaitality_Cavern/map.bin"
+    },
+    {
+      "id": "LAYOUT_EBON_MAW",
+      "name": "Ebon_Maw_Layout",
+      "width": 17,
+      "height": 33,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/Ebon_Maw/border.bin",
+      "blockdata_filepath": "data/layouts/Ebon_Maw/map.bin"
+    },
+    {
+      "id": "LAYOUT_FROZEN_CAVE",
+      "name": "FrozenCave_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/FrozenCave/border.bin",
+      "blockdata_filepath": "data/layouts/FrozenCave/map.bin"
     }
   ]
 }
